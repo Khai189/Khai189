@@ -4,7 +4,7 @@ My name's Khai, and I'm a current student at Pomona College.
 
 I'm currently studying Computer Science and Mathematics. Below, you'll find the current projects I'm working, what languages I'm most comfortable in, and more!
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,js,django,aws,docker,kubernetes,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,js,django,aws,docker,kubernetes,ubuntu,linux)](https://skillicons.dev)
 
 ## Current projects I'm working on
 
@@ -16,7 +16,7 @@ I'm currently working on a better engine for recommending spotify songs using Hi
 
 ### MetaDisplay Speech Database
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,aws,docker,ubuntu)](https://skillicons.dev)
 
 Collecting data from the Meta Display's to host open-source for improvement on the LLM archiecture inside the displays. 
 
