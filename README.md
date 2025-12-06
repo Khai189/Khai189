@@ -10,12 +10,6 @@ I'm currently studying Computer Science and Mathematics. Below, you'll find the 
 
 ### Learning
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src= "https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,js,p5js,flask,docker&perline=6"/>
-  </a>
-</p>
-
 [![My Skills](https://skillicons.dev/icons?i=django,aws,kubernetes,ubuntu,linux&perline=6)](https://skillicons.dev)
 
 ## Current projects I'm working on
