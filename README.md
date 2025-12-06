@@ -6,6 +6,9 @@ I'm currently studying Computer Science and Mathematics. Below, you'll find the 
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,js,django,aws,docker,kubernetes,linux)](https://skillicons.dev)
 
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=Khai189)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Khai189)](https://git.io/streak-stats)
 
 Some fun facts about myself:
