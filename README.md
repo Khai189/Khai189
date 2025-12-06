@@ -6,23 +6,23 @@ I'm currently studying Computer Science and Mathematics. Below, you'll find the 
 
 ### Comfortable with
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,js,p5js,flask,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,js,p5js,flask,docker&perline=3)](https://skillicons.dev)
 
 ### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=django,aws,kubernetes,ubuntu,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,aws,kubernetes,ubuntu,linux&perline=3)](https://skillicons.dev)
 
 ## Current projects I'm working on
 
 ### SpotifyRecommender
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,django,js,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,django,js,aws,docker&perline=3)](https://skillicons.dev)
 
 I'm currently working on a better engine for recommending spotify songs using Hierarchical Reasoning.
 
 ### MetaDisplay Speech Database
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,aws,docker,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,aws,docker,ubuntu&perline=3)](https://skillicons.dev)
 
 Collecting data from the Meta Display's to host open-source for improvement on the LLM archiecture inside the displays. 
 
