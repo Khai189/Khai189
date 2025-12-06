@@ -47,5 +47,5 @@ First off, I love chess. I'm not the best player on earth, but I've always found
 
 <!--END_SECTION:chessStats-->
 
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=Khai189)
+<!--![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=Khai189)-->
 
