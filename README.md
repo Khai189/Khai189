@@ -11,7 +11,7 @@ I'm currently studying Computer Science and Mathematics. Below, you'll find the 
 ### Learning
 
 <p align="center">
-  <a href="[https://skillicons.dev](https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,js,p5js,flask,docker&perline=6)">
+  <a href="https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,js,p5js,flask,docker&perline=6">
     <img src= />
   </a>
 </p>
