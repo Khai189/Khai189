@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi there!
 
 My name's Khai, and I'm a current student at Pomona College.
 
 I'm currently studying Computer Science and Mathematics. Below, you'll find the current projects I'm working, what languages I'm most comfortable in, and more!
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,cpp,js,aws,docker,kubernetes,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,js,django,,aws,docker,kubernetes,linux)](https://skillicons.dev)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Khai189)](https://git.io/streak-stats)
 
