@@ -8,8 +8,8 @@ I'm currently studying Computer Science and Mathematics. Below, you'll find the 
 
 ![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=Khai189)
 
+![github-trophies](https://stats.hyo.dev/api/github-trophies?login=Khai189)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Khai189)](https://git.io/streak-stats)
 
 Some fun facts about myself:
 
