@@ -6,10 +6,19 @@ I'm currently studying Computer Science and Mathematics. Below, you'll find the 
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,js,django,aws,docker,kubernetes,linux)](https://skillicons.dev)
 
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=Khai189)
+## Current projects I'm working on
 
-![github-trophies](https://stats.hyo.dev/api/github-trophies?login=Khai189)
+### SpotifyRecommender
 
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,django,aws,docker)](https://skillicons.dev)
+
+I'm currently working on a better engine for recommending spotify songs using Hierachal Reasoning.
+
+### MetaDisplay Speech Database
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,aws,docker)](https://skillicons.dev)
+
+Collecting data from the Meta Display's to host open-source for improvement on the LLM archiecture inside the displays. 
 
 Some fun facts about myself:
 
@@ -37,3 +46,6 @@ First off, I love chess. I'm not the best player on earth, but I've always found
 | **Khai189** | kchaitu2803 | resigned ❌ | 9/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp2p1p/6p1/3pP3/8/2N1KP1P/PPn5/R6R w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
+
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=Khai189)
+
