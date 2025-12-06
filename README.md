@@ -2,7 +2,15 @@
 
 My name's Khai, and I'm a current student at Pomona College.
 
+I'm currently studying Computer Science and Mathematics. Below, you'll find the current projects I'm working, what languages I'm most comfortable in, and more!
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,cpp,js,aws,docker,kubernetes,linux)](https://skillicons.dev)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Khai189)](https://git.io/streak-stats)
+
+Some fun facts about myself:
+
+First off, I love chess. I'm not the best player on earth, but I've always found it so fun. 
 
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
