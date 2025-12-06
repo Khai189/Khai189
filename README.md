@@ -20,9 +20,13 @@ I'm currently working on a better engine for recommending spotify songs using Hi
 
 Collecting data from the Meta Display's to host open-source for improvement on the LLM archiecture inside the displays. 
 
-Some fun facts about myself:
+## Some fun facts about myself:
 
-First off, I love chess. I'm not the best player on earth, but I've always found it so fun. 
+### Chess
+
+I love chess. I'm not the best player on earth, but I've always found it so fun. 
+Chess really helped me understand many algorithims such as min-max and alpha-beta-pruning. 
+It's also just so fun and relaxing, highly recommend
 
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
@@ -46,6 +50,7 @@ First off, I love chess. I'm not the best player on earth, but I've always found
 | **Khai189** | kchaitu2803 | resigned ❌ | 9/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp2p1p/6p1/3pP3/8/2N1KP1P/PPn5/R6R w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
+
 
 <!--![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=Khai189)-->
 
