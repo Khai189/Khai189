@@ -4,7 +4,13 @@ My name's Khai, and I'm a current student at Pomona College.
 
 I'm currently studying Computer Science and Mathematics. Below, you'll find the current projects I'm working, what languages I'm most comfortable in, and more!
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,js,django,aws,docker,kubernetes,ubuntu,linux)](https://skillicons.dev)
+### Comfortable with
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,js,flask,docker)](https://skillicons.dev)
+
+### Learning
+
+[![My Skills](https://skillicons.dev/icons?i=django,aws,kubernetes,ubuntu,linux)](https://skillicons.dev)
 
 ## Current projects I'm working on
 
