@@ -10,7 +10,7 @@ I'm currently studying Computer Science and Mathematics. Below, you'll find the 
 
 ### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=django,aws,kubernetes,ubuntu,linux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,django,aws,kubernetes,ubuntu,linux&perline=6)](https://skillicons.dev)
 
 ## Current projects I'm working on
 
@@ -25,6 +25,12 @@ I'm currently working on a better engine for recommending spotify songs using Hi
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,aws,docker,ubuntu&perline=6)](https://skillicons.dev)
 
 Collecting data from the Meta Display's to host open-source for improvement on the LLM archiecture inside the displays. 
+
+### AI Image Detector Web Extension
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,docker&perline=6)](https://skillicons.dev)
+
+Developing a chrome extension that detects whether or not the current image(s) on your screen are AI generated.
 
 ## Some fun facts about myself:
 
