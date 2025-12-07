@@ -28,7 +28,7 @@ Collecting data from the Meta Display's to host open-source for improvement on t
 
 ### AI Image Detector Web Extension
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,docker&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,gcp,docker&perline=6)](https://skillicons.dev)
 
 Developing a chrome extension that detects whether or not the current image(s) on your screen are AI generated.
 
