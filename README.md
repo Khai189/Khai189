@@ -6,7 +6,7 @@ I'm currently studying Computer Science and Mathematics. Below, you'll find the 
 
 ### Comfortable with
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,js,docker&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,flask,postgres,cpp,js,docker&perline=6)](https://skillicons.dev)
 
 ### Learning
 
