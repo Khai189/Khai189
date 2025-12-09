@@ -10,7 +10,7 @@ I'm currently studying Computer Science and Mathematics. Below, you'll find the 
 
 ### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,django,aws,kubernetes,ubuntu,linux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,anaconda,aws,kubernetes,ubuntu,linux&perline=6)](https://skillicons.dev)
 
 ## Current projects I'm working on
 
