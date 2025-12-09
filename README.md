@@ -45,11 +45,12 @@ It's also just so fun and relaxing, highly recommend
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 934 | 966 | 648 |
-| Best | 959 | 966 | 719 |
+| Current | 934 | 1000 | 648 |
+| Best | 959 | 1000 | 719 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Khai189** | Danielthegreat89 | win 🥇 | 8/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/3R1kp1/5p2/p4P2/Pp4qp/8/1P3PPP/6K1 b - - 2 32">Link</a> | Blitz |
 | **Khai189** | MSLKW | win 🥇 | 6/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3Q1R2/4k3/1K6/5P2/8 b - - 2 57">Link</a> | Blitz |
 | Elberrrrrr | **Khai189** | win 🥇 | 6/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rk/8/3R1p1p/1p6/8/2P1P3/PP3RP1/6K1 w - - 2 40">Link</a> | Blitz |
 | **Khai189** | gurhil | win 🥇 | 6/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr2r1/1qB3p1/pPp1p2n/4P3/P3Q3/2P2N2/6KP/1R1R4 b - - 1 28">Link</a> | Blitz |
@@ -59,7 +60,6 @@ It's also just so fun and relaxing, highly recommend
 | **Khai189** | Socrate5909 | checkmated ❌ | 23/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5pp1/4pR1Q/p2bP3/3Pq3/2P1K1R1/1r4PP/8 w - - 2 38">Link</a> | Rapid |
 | StuWo | **Khai189** | win 🥇 | 23/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/1p3pkp/p2p1rpq/4n3/7P/P3P3/1P2BPP1/5RK1 w - - 2 30">Link</a> | Rapid |
 | **Khai189** | kamilquliyev247 | resigned ❌ | 23/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/1p2kp1p/p3p3/2q3Q1/8/2P5/P1P2PPP/3R2K1 b - - 3 22">Link</a> | Rapid |
-| tejuplays | **Khai189** | win 🥇 | 23/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/7Q/3q2p1/5p2/R7/P7/1P3PPP/4r1K1 w - - 0 43">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
