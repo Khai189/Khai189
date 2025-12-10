@@ -5,7 +5,9 @@ My name's Khai, and I'm a Database and NLP Developer as well as a current studen
 I'm currently studying Computer Science and Mathematics, and working as a data scientist at Pomona's advancement center, as well as an HPC researcher at ITS. Below, you'll find the current projects I'm working, what languages I'm most comfortable in, and more!
 
 ### Contact Information
+
 khmr2024@mymail.pomona.edu
+
 828-215-9996
 
 ### Comfortable with
