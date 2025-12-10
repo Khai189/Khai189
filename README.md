@@ -18,7 +18,7 @@ I'm currently studying Computer Science and Mathematics. Below, you'll find the 
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,anaconda,postgres,tensorflow,aws&perline=6)](https://skillicons.dev)
 
-I'm currently working on a better engine for recommending spotify songs using Hierarchical Reasoning.
+I'm currently working on a better engine for recommending spotify songs by analyzing the vocals, beats, and other sounds of a song alongside other qualities to create a better engine for recommending Spotify songs.
 
 ### MetaDisplay Speech Database
 
