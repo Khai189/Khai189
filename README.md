@@ -16,7 +16,7 @@ I'm currently studying Computer Science and Mathematics. Below, you'll find the 
 
 ### SpotifyRecommender
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,js,aws,docker&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,anaconda,postgres,aws,docker&perline=6)](https://skillicons.dev)
 
 I'm currently working on a better engine for recommending spotify songs using Hierarchical Reasoning.
 
