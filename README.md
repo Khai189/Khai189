@@ -16,7 +16,7 @@ khmr2024@mymail.pomona.edu
 
 ### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,anaconda,aws,kubernetes,ubuntu,linux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,anaconda,mongodb,aws,kubernetes,ubuntu,linux&perline=6)](https://skillicons.dev)
 
 ## Current projects I'm working on
 
