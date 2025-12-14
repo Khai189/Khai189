@@ -1,6 +1,6 @@
 ## Hi there!
 
-My name's Khai, and I'm a Database and NLP Developer as well as a current student at Pomona College.
+My name's Khai, and I'm a Database and NLP Developer as well as a current student at Pomona College. I specifically specialize in setting up data pipelines and warehouses for LLM's and developing NLP/text mining scripts.
 
 I'm currently studying Computer Science and Mathematics, and working as a data scientist at Pomona's advancement center, as well as an HPC researcher at ITS. Below, you'll find the current projects I'm working, what languages I'm most comfortable in, and more!
 
