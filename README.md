@@ -24,7 +24,7 @@ khmr2024@mymail.pomona.edu
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,go,anaconda,postgres,docker,aws&perline=6)](https://skillicons.dev)
 
-Creating a massive data pipeline, processing raw data from Spotify and YouTube to extract features from 30 second data previews. These previews are later used by weighted embeddings to rank the songs based on similarity, and are all stored using pgvector and PostgreSQL, which will be incorpated into AWS EC2 and deployed with Docker througb a GoLang/Flask API depending on future steps, as well as a front-facing web app.
+Creating a massive data pipeline, processing raw data from Spotify and YouTube to extract features from popular songs. These previews are later used by weighted embeddings to rank the songs based on similarity, and are all stored using pgvector and PostgreSQL, which will be incorpated into AWS EC2 and deployed with Docker througb a GoLang/Flask API depending on future steps, as well as a front-facing web app. 
 
 ### MetaDisplay Speech Database
 
