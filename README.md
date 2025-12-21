@@ -35,7 +35,7 @@ Created a massive data pipeline, processing raw data from Spotify to extract fea
 
 Collecting data from the Meta Display's to host open-source for improvement on the LLM archiecture inside the displays. 
 
-### Job Recommondation for Students
+### Resume Recommondation 
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,aws,docker&perline=6)](https://skillicons.dev)
 
