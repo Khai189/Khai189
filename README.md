@@ -43,7 +43,7 @@ Building a data pipeline that ingests student resumes and outputs best-fit jobs 
 
 ### Chess Positions for Beginners
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,spark,aws,docker,kubernetes&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,kubernetes&perline=6)](https://skillicons.dev)
 
 Used Java/SpringBoot to ingest tens of millions of games from Lichess to create an opening recomendation system for beginner-advanced players. Used Apache Spark, AWS Glue, S3, and ECS to create a Data Lake for the recommendation engine.
 
