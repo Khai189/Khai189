@@ -12,31 +12,40 @@ khmr2024@mymail.pomona.edu
 
 ### Comfortable with
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,flask,postgres,js,docker&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,flask,django,postgres,js,docker&perline=6)](https://skillicons.dev)
 
 ### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,spring,go,aws,kubernetes,ubuntu,linux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,spring,go,aws,kubernetes,&perline=6)](https://skillicons.dev)
+
+## Finished Projects
+
+### SpotifyRecommender
+[Project link](https://khai-spotify-recommender.streamlit.app/)
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,flask,anaconda,postgres,docker,aws&perline=6)](https://skillicons.dev)
+
+Created a massive data pipeline, processing raw data from Spotify to extract features from popular songs. These previews are later used by weighted embeddings to rank the songs based on similarity, and are all stored using in a vector database using pgvector and PostgreSQL. The Flask API connected to this database, which is stored on AWS using RDS, is contained and processed through AWS Lambda, ECS, Batch, and S3. 
 
 ## Current projects I'm working on
 
-### SpotifyRecommender
-
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,go,anaconda,postgres,docker,aws&perline=6)](https://skillicons.dev)
-
-Creating a massive data pipeline, processing raw data from Spotify and YouTube to extract features from popular songs. These previews are later used by weighted embeddings to rank the songs based on similarity, and are all stored using pgvector and PostgreSQL, which will be incorpated into AWS EC2 and deployed with Docker througb a GoLang/Flask API depending on future steps, as well as a front-facing web app. 
-
 ### MetaDisplay Speech Database
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,aws,docker,ubuntu&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,aws,docker,kubernetes&perline=6)](https://skillicons.dev)
 
 Collecting data from the Meta Display's to host open-source for improvement on the LLM archiecture inside the displays. 
 
-### AI Image Detector Web Extension
+### Job Recommondation for Students
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,gcp,docker&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,aws,docker&perline=6)](https://skillicons.dev)
 
-Developing a chrome extension that detects whether or not the current image(s) on your screen are AI generated.
+Building a data pipeline that ingests student resumes and outputs best-fit jobs using Adzuna's RESTful API. Data will be stored in a MongoDB database, and uploaded to AWS RDS. AWS Bedrock will be used to analyze similarities and return best-fit jobs.
+
+### Chess Positions for Beginners
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,spark,aws,docker,kubernetes&perline=6)](https://skillicons.dev)
+
+Used Java/SpringBoot to ingest tens of millions of games from Lichess to create an opening recomendation system for beginner-advanced players. Used Apache Spark, AWS Glue, S3, and ECS to create a Data Lake for the recommendation engine.
 
 ## Some fun facts about myself:
 
