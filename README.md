@@ -29,23 +29,23 @@ Created a massive data pipeline, processing raw data from Spotify to extract fea
 
 ## Current projects I'm working on
 
-### MetaDisplay Speech Database
+### 7C Food Social 
 
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,aws,docker,kubernetes&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,java,spring,postgres,aws,docker&perline=6)](https://skillicons.dev)
 
-Collecting data from the Meta Display's to host open-source for improvement on the LLM archiecture inside the displays. 
-
-### Resume Recommondation 
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,aws,docker&perline=6)](https://skillicons.dev)
-
-Building a data pipeline that ingests student resumes and outputs best-fit jobs using Adzuna's RESTful API. Data will be stored in a MongoDB database, and uploaded to AWS RDS. AWS Bedrock will be used to analyze similarities and return best-fit jobs.
+Leading a team of 4 developers to build a social platform for students to rate foods, check the best three offerings, and pick the best dining halls to eat at for the day. Building a data pipeline and REST API to collect reviews and foods at dining halls using Spring and Postgres. Frontend is built with JS and React to process student reviews. Deploying database to AWS using Docker, AWS RDS, Lambda, S3, and ECS, then deploying frontend to Vercel.
 
 ### Chess Positions for Beginners
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,kubernetes&perline=6)](https://skillicons.dev)
 
 Used Java/SpringBoot to ingest tens of millions of games from Lichess to create an opening recomendation system for beginner-advanced players. Used Apache Spark, AWS Glue, S3, and ECS to create a Data Lake for the recommendation engine.
+
+### MetaDisplay Speech Database
+
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,aws,docker,kubernetes&perline=6)](https://skillicons.dev)
+
+Collecting data from the Meta Display's to host open-source for improvement on the LLM archiecture inside the displays. 
 
 ## Some fun facts about myself:
 
