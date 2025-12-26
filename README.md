@@ -1,6 +1,6 @@
 ## Hi there!
 
-My name's Khai, and I'm a Database and API Developer as well as a current student at Pomona College. I specifically specialize in backend engineering, setting up data pipelines and warehouses for LLM's as well as developing databases and REST APIs.
+My name's Khai, and I'm a Database and API Developer as well as a current student at Pomona College. I specifically specialize in backend engineering, setting up data pipelines and warehouses for LLM's, cloud deployment, and developing databases as well as REST APIs.
 
 I'm currently studying Computer Science and Mathematics, and working as a data scientist at Pomona's advancement center, as well as an Backend Developer at ITS. Below, you'll find the current projects I'm working, what languages I'm most comfortable in, and more!
 
