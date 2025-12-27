@@ -29,7 +29,7 @@ Created a massive data pipeline, processing raw data from Spotify to extract fea
 
 ## Current projects I'm working on
 
-### 7C Food Social 
+### 5C Food Social 
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,java,spring,postgres,aws,docker&perline=6)](https://skillicons.dev)
 
