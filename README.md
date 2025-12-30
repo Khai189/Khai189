@@ -41,11 +41,11 @@ Leading a team of 4 developers to build a social platform for students to rate f
 
 Used Java/SpringBoot to ingest tens of millions of games from Lichess to create an opening recomendation system for beginner-advanced players. Used Apache Spark, AWS Glue, S3, and ECS to create a Data Lake for the recommendation engine.
 
-### MetaDisplay Speech Database
+### Real-Time Latex 
 
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,aws,docker,kubernetes&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,mongodb,aws,docker,kubernetes&perline=6)](https://skillicons.dev)
 
-Collecting data from the Meta Display's to host open-source for improvement on the LLM archiecture inside the displays. 
+Building a website that allows multiple students to access, edit, and compile latex documents at the same time.
 
 ## Some fun facts about myself:
 
