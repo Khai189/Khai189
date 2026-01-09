@@ -60,21 +60,21 @@ It's also just so fun and relaxing, highly recommend
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 934 | 1000 | 648 |
-| Best | 959 | 1000 | 719 |
+| Current | 1007 | 1000 | 599 |
+| Best | 1007 | 1000 | 719 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Khai189** | cinco124 | win 🥇 | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/Q7/2K1k3/8 b - - 6 65">Link</a> | Rapid |
+| **Khai189** | juankseron | win 🥇 | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbnr/pp3ppp/8/2pN4/3n1P2/5N2/PPPP3P/R1BQKB1R b KQkq - 0 8">Link</a> | Rapid |
+| RafaelApkarian | **Khai189** | resigned ❌ | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/8/6K1/5pBp/5P2/8/7P/8 b - - 0 52">Link</a> | Bullet |
+| IDhu0111 | **Khai189** | win 🥇 | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1B3pp/1p2bp2/2p5/8/2P4P/1PPr1PPK/3r4 w - - 2 30">Link</a> | Rapid |
 | **Khai189** | Danielthegreat89 | win 🥇 | 8/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/3R1kp1/5p2/p4P2/Pp4qp/8/1P3PPP/6K1 b - - 2 32">Link</a> | Blitz |
 | **Khai189** | MSLKW | win 🥇 | 6/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3Q1R2/4k3/1K6/5P2/8 b - - 2 57">Link</a> | Blitz |
 | Elberrrrrr | **Khai189** | win 🥇 | 6/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rk/8/3R1p1p/1p6/8/2P1P3/PP3RP1/6K1 w - - 2 40">Link</a> | Blitz |
 | **Khai189** | gurhil | win 🥇 | 6/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr2r1/1qB3p1/pPp1p2n/4P3/P3Q3/2P2N2/6KP/1R1R4 b - - 1 28">Link</a> | Blitz |
 | **Khai189** | prasad_001 | checkmated ❌ | 6/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/1P2rp1k/QB5p/1N4p1/Pb4bK/6P1/5P1P/3q4 w - g6 0 31">Link</a> | Rapid |
 | dasrick | **Khai189** | win 🥇 | 23/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k3r/pQ2bpp1/2P1p1p1/3p4/2nN4/2P5/P4PPq/RN3RK1 w - - 0 19">Link</a> | Rapid |
-| Huel1996 | **Khai189** | win 🥇 | 23/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/5k2/6p1/7K w - - 0 74">Link</a> | Rapid |
-| **Khai189** | Socrate5909 | checkmated ❌ | 23/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5pp1/4pR1Q/p2bP3/3Pq3/2P1K1R1/1r4PP/8 w - - 2 38">Link</a> | Rapid |
-| StuWo | **Khai189** | win 🥇 | 23/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/1p3pkp/p2p1rpq/4n3/7P/P3P3/1P2BPP1/5RK1 w - - 2 30">Link</a> | Rapid |
-| **Khai189** | kamilquliyev247 | resigned ❌ | 23/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/1p2kp1p/p3p3/2q3Q1/8/2P5/P1P2PPP/3R2K1 b - - 3 22">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
