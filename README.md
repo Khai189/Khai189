@@ -29,11 +29,11 @@ Created a massive data pipeline, processing raw data from Spotify to extract fea
 
 ## Current projects I'm working on
 
-### 5C Food Social 
+<!--### 5C Food Social 
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,java,spring,postgres,aws,docker&perline=6)](https://skillicons.dev)
 
-Leading a team of 4 developers to build a social platform for students to rate foods, check the best three offerings, and pick the best dining halls to eat at for the day. Building a data pipeline and REST API to collect reviews and foods at dining halls using Spring and Postgres. Frontend is built with JS and React to process student reviews. Deploying database to AWS using Docker, AWS RDS, Lambda, S3, and ECS, then deploying frontend to Vercel.
+Leading a team of 4 developers to build a social platform for students to rate foods, check the best three offerings, and pick the best dining halls to eat at for the day. Building a data pipeline and REST API to collect reviews and foods at dining halls using Spring and Postgres. Frontend is built with JS and React to process student reviews. Deploying database to AWS using Docker, AWS RDS, Lambda, S3, and ECS, then deploying frontend to Vercel.-->
 
 ### Chess Positions for Beginners
 
