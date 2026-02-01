@@ -1,6 +1,6 @@
 ## Hi there!
 
-My name's Khai, and I'm a Product Engineer who specializes in making social platforms and simple yet effective UIs. I work primarily with SpringBoot, PostgreSQL, React/React Native, Docker, and AWS. Essentially, I make products people actually use.
+My name's Khai, and I'm a Product Engineer who specializes in making social platforms and simple yet effective UIs. I work primarily with SpringBoot, PostgreSQL, Typescript, React/React Native, Docker, and AWS. Essentially, I make products people actually use.
 
 I'm currently studying Computer Science and Media Studies, and working as a Software Developer at Pomona's ITS department. Below, you'll find the current projects I'm working, what languages I'm most comfortable in, and more!
 
