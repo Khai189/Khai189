@@ -1,8 +1,8 @@
 ## Hi there!
 
-My name's Khai, and I'm a Database and API Developer as well as a current student at Pomona College. I specifically specialize in backend engineering, setting up data pipelines and warehouses for LLM's, cloud deployment, and developing databases as well as REST APIs.
+My name's Khai, and I'm a Product Engineer who specializes in making social platforms and simple yet effective UIs. I work primarily with SpringBoot, PostgreSQL, React/React Native, Docker, and AWS. Essentially, I make products people actually use.
 
-I'm currently studying Computer Science and Mathematics, and working as a data scientist at Pomona's advancement center, as well as a Backend Developer at ITS. Below, you'll find the current projects I'm working, what languages I'm most comfortable in, and more!
+I'm currently studying Computer Science and Media Studies, and working as a Software Developer at Pomona's ITS department. Below, you'll find the current projects I'm working, what languages I'm most comfortable in, and more!
 
 ### Contact Information
 
@@ -29,11 +29,11 @@ Created a massive data pipeline, processing raw data from Spotify to extract fea
 
 ## Current projects I'm working on
 
-<!--### 5C Food Social 
+5C Food Social 
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,java,spring,postgres,aws,docker&perline=6)](https://skillicons.dev)
 
-Leading a team of 4 developers to build a social platform for students to rate foods, check the best three offerings, and pick the best dining halls to eat at for the day. Building a data pipeline and REST API to collect reviews and foods at dining halls using Spring and Postgres. Frontend is built with JS and React to process student reviews. Deploying database to AWS using Docker, AWS RDS, Lambda, S3, and ECS, then deploying frontend to Vercel.-->
+Leading a team of 4 developers to build a social platform for students to rate foods, check the best three offerings, and pick the best dining halls to eat at for the day. Building a data pipeline and REST API to collect reviews and foods at dining halls using Spring and Postgres. Frontend is built with TypeScript and React to process student reviews. Deploying database to AWS using Docker, AWS RDS, Lambda, S3, and ECS, then deploying frontend to Vercel.
 
 ### Chess Positions for Beginners
 
