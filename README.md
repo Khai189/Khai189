@@ -16,7 +16,7 @@ khmr2024@mymail.pomona.edu
 
 ### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,swift,mongodb,nodejs,next&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,swift,mongodb,figma,next&perline=6)](https://skillicons.dev)
 
 ## Finished Projects
 
