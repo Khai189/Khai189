@@ -12,11 +12,11 @@ khmr2024@mymail.pomona.edu
 
 ### Comfortable with
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,spring,flask,django,postgres,js,aws,docker&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,spring,flask,fastapi,postgres,js,aws,docker&perline=6)](https://skillicons.dev)
 
 ### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nest,swift,kotlin,mongodb,figma,next&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nest,swift,kotlin,figma,next&perline=6)](https://skillicons.dev)
 
 ## Finished Projects
 
