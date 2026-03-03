@@ -37,17 +37,17 @@ Leading a team of 5 developers to build a social platform for students to rate f
 
 ### Faculty Research Website
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,figma,next,java,spring,postgres,docker&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,figma,next,redis,java,spring,postgres,docker&perline=6)](https://skillicons.dev)
 
 Building a faculty research where 10,000 students will be able to easily find research oppurtinities with professors. Professors can set their privacy levels to indicate whether or not they'd like to look for new students, and students can sort by major, interest, grade year, pre-reqs, etc...
 
 Using React, Figma, and TypeScript to build the frontend and SpringBoot/Java to deploy the backend. Setup cloud infrastructure and sponsored 100s of professors research for 1000s of students to find and get proper employment from. 
 
-### Real-Time Latex 
+### Chess-Data Visualization 
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,mongodb,aws,docker,kubernetes&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,threejs,nodejs,nest,postgres,vercel,kubernetes&perline=6)](https://skillicons.dev)
 
-Building a website that allows multiple students to access, edit, and compile latex documents at the same time.
+Building a website that allows chess players to visualize their game statistics against other players in real time. 
 
 ## Some fun facts about myself:
 
