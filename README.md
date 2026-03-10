@@ -45,7 +45,7 @@ Using React, Figma, and TypeScript to build the frontend and SpringBoot/Java to 
 
 ### Coffee Mixer
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,figma,redux,next,node,postgres,docker&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,figma,redux,next,nodejs,postgres,docker&perline=6)](https://skillicons.dev)
 
 Building a custom coffee recommender that let's the users mix and match new recipes and immediately find new drink mixes.
 
