@@ -25,7 +25,17 @@ khmr2024@mymail.pomona.edu
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,flask,anaconda,postgres,docker,aws&perline=6)](https://skillicons.dev)
 
-Created a massive data pipeline, processing raw data from Spotify to extract features from popular songs. These previews are later used by weighted embeddings to rank the songs based on similarity, and are all stored using in a vector database using pgvector and PostgreSQL. The Flask API connected to this database, which is stored on AWS using RDS, is contained and processed through AWS Lambda, ECS, Batch, and S3. 
+Created a massive data pipeline, processing raw data from Spotify to extract features from popular songs. These previews are later used by weighted embeddings to rank the songs based on similarity, and are all stored using in a vector database using pgvector and PostgreSQL. The Flask API connected to this database, which is stored on AWS using RDS, is contained and processed through AWS Lambda, ECS, Batch, and S3.
+
+### Coffee Mixer
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,figma,redux,next,nodejs,postgres,docker&perline=6)](https://skillicons.dev)
+
+CoffeeMixer is a social media app meant for coffee lovers. Find new recipes built by people who love coffee, or post your own. Have a feed full of beautiful instagram-worthy pics and gain tons of followers. 
+
+Built a custom coffee recommender that let's the users mix and match new recipes and immediately find new drink mixes.
+
+The frontend is built with TypeScript React.js, React Router, and Redux. Figma was used as a case study to help build an accessible interface.
 
 ## Current projects I'm working on
 
@@ -42,14 +52,6 @@ Leading a team of 5 developers to build a social platform for students to rate f
 Building a faculty research where 10,000 students will be able to easily find research oppurtinities with professors. Professors can set their privacy levels to indicate whether or not they'd like to look for new students, and students can sort by major, interest, grade year, pre-reqs, etc...
 
 Using React, Figma, and TypeScript to build the frontend and SpringBoot/Java to deploy the backend. Setup cloud infrastructure and sponsored 100s of professors research for 1000s of students to find and get proper employment from. 
-
-### Coffee Mixer
-
-[![My Skills](https://skillicons.dev/icons?i=react,ts,figma,redux,next,nodejs,postgres,docker&perline=6)](https://skillicons.dev)
-
-Building a custom coffee recommender that let's the users mix and match new recipes and immediately find new drink mixes.
-
-The frontend is built with TypeScript React.js, React Router, and Redux. Figma was used as a case study to help build an accessible interface.
 
 ### Chess-Data Visualization 
 
