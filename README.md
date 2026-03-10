@@ -37,11 +37,19 @@ Leading a team of 5 developers to build a social platform for students to rate f
 
 ### Faculty Research Website
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,figma,next,redis,java,spring,postgres,docker&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,figma,next,redux,java,spring,postgres,docker&perline=6)](https://skillicons.dev)
 
 Building a faculty research where 10,000 students will be able to easily find research oppurtinities with professors. Professors can set their privacy levels to indicate whether or not they'd like to look for new students, and students can sort by major, interest, grade year, pre-reqs, etc...
 
 Using React, Figma, and TypeScript to build the frontend and SpringBoot/Java to deploy the backend. Setup cloud infrastructure and sponsored 100s of professors research for 1000s of students to find and get proper employment from. 
+
+### Faculty Research Website
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,figma,redux,next,node,postgres,docker&perline=6)](https://skillicons.dev)
+
+Building a custom coffee recommender that let's the users mix and match new recipes and immediately find new drink mixes.
+
+The frontend is built with TypeScript React.js, React Router, and Redux. Figma was used as a case study to help build an accessible interface.
 
 ### Chess-Data Visualization 
 
