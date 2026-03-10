@@ -43,7 +43,7 @@ Building a faculty research where 10,000 students will be able to easily find re
 
 Using React, Figma, and TypeScript to build the frontend and SpringBoot/Java to deploy the backend. Setup cloud infrastructure and sponsored 100s of professors research for 1000s of students to find and get proper employment from. 
 
-### Faculty Research Website
+### Coffee Mixer
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,figma,redux,next,node,postgres,docker&perline=6)](https://skillicons.dev)
 
