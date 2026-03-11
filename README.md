@@ -29,6 +29,8 @@ Created a massive data pipeline, processing raw data from Spotify to extract fea
 
 ### Coffee Mixer
 
+[Project link](https://coffeemixer-production.up.railway.app/)
+
 [![My Skills](https://skillicons.dev/icons?i=react,ts,figma,redux,next,nodejs,postgres,docker&perline=6)](https://skillicons.dev)
 
 CoffeeMixer is a social media app meant for coffee lovers. Find new recipes built by people who love coffee, or post your own. Have a feed full of beautiful instagram-worthy pics and gain tons of followers. 
