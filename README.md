@@ -93,5 +93,4 @@ It's also just so fun and relaxing, highly recommend
 <!--END_SECTION:chessStats-->
 
 
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=Khai189)
 
