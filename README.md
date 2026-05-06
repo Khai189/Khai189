@@ -1,8 +1,8 @@
 ## Hi there!
 
-My name's Khai, and I'm a Product Engineer who specializes in making social platforms and simple yet effective UIs. I work primarily with SpringBoot, PostgreSQL, Typescript, React/React Native, Docker, and AWS. Essentially, I make products people actually use.
+My name's Khai, and I'm a Cloud & Infra Engineer who specializes in concurrency and distributed systems. I work primarily with Go, Java/SpringBoot, Python, PostgreSQL, Typescript, Kubernetes, and AWS. Essentially, I make applications thousands of people can actually use.
 
-I'm currently studying Computer Science and Media Studies, and working as a Software Developer at Pomona's ITS department. Below, you'll find the current projects I'm working, what languages I'm most comfortable in, and more!
+I'm currently studying Computer Science and Media Studies, and working as a Software Engineer Intern at Nordic Analytics and a Software Developer at Pomona's ITS department. Below, you'll find the current projects I'm working, what languages I'm most comfortable in, and more!
 
 ### Contact Information
 
@@ -12,7 +12,7 @@ khmr2024@mymail.pomona.edu
 
 ### Comfortable with
 
-[![My Skills](https://skillicons.dev/icons?i=spring,java,next,react,ts,python,tailwind,django,fastapi,nodejs,postgres,aws,docker&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,java,kubernetes,go,next,react,ts,python,django,postgres,aws,docker&perline=6)](https://skillicons.dev)
 
 ### Learning
 
