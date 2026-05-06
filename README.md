@@ -12,7 +12,7 @@ khmr2024@mymail.pomona.edu
 
 ### Comfortable with
 
-[![My Skills](https://skillicons.dev/icons?i=spring,java,kubernetes,go,next,react,ts,python,django,postgres,aws,docker&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,java,kubernetes,docker,go,nextjs,react,ts,python,django,postgres,aws,docker&perline=6)](https://skillicons.dev)
 
 ### Learning
 
