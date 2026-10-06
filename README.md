@@ -1,6 +1,6 @@
 ## Hi there!
 
-My name's Khai, and I'm a Cloud & Infra Engineer who specializes in concurrency and distributed systems. I work primarily with Go, Java/SpringBoot, Python, PostgreSQL, Typescript, Kubernetes, and AWS. Essentially, I make applications thousands of people can actually use.
+My name's Khai, and I'm a Cloud & Infra Engineer and upcoming Software Engineer Intern @ Mastercard who specializes in concurrency and distributed systems. I work primarily with Go, Java/SpringBoot, Python, PostgreSQL, Typescript, Kubernetes, and AWS. Essentially, I make applications thousands of people can actually use.
 
 I'm currently studying Computer Science and Media Studies, and working as a Software Engineer Intern at Nordic Analytics and a Software Developer at Pomona's ITS department. Below, you'll find the current projects I'm working, what languages I'm most comfortable in, and more!
 
